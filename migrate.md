@@ -1,0 +1,1 @@
+qm remote-migrate 100 100 'host=11.0.0.159,apitoken=PVEAPIToken=root@pam!migration-token=87634b7e-779c-47cc-b888-ab3dd5093380,fingerprint=39:16:8D:50:55:02:36:5E:6E:E0:57:18:60:DC:F4:AA:39:E0:05:20:DA:81:3C:ED:96:32:17:47:53:62:02:B3' --target-bridge vmbr0 --target-storage local-lvm
